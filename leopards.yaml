@@ -6,4 +6,10 @@ members:
 - Linda
 - Wiliam
 - David
+<<<<<<< HEAD
 - Olivia
+=======
+
+coach:
+- Oscar
+>>>>>>> add-coach
